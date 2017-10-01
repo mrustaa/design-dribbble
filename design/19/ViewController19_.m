@@ -95,7 +95,7 @@
     
 
     [self.navigationController.navigationBar
-     setBackgroundImage: [UIImage imageNamed:@"19NavigationFuckYou"]
+     setBackgroundImage: [UIImage imageNamed:@"NavigationAlpha"]
      forBarMetrics:UIBarMetricsDefault];
     
 
